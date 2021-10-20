@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeCappa
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML/CSS and Javascript
+- 👀 I’m interested in Android mobile development, IOS mobile development, front end or back end development, and cyber security.
+- 🌱 I’m currently learning HTML/CSS and Javascript. Eventually Java/Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
