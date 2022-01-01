@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @JakeCappa
-- 👀 I’m interested in Android mobile development, IOS mobile development, front end or back end development, and cyber security.
-- 🌱 I’m currently learning HTML/CSS and Javascript. Eventually Java/Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm interested in becoming a front-end web developer, then becoming a full-stack developer. After that, I'd like to become a blockchain developer.
+- 🌱 I’m currently learning HTML/CSS and Javascript. I'd like to learn Python, Java, Php, and Solidity.
+- 💞️ I’m looking to collaborate on any front-end projects.
 - 📫 How to reach me
 - Discord-JakeCappa#6401
-- Student email-jac73@students.ptcollege.edu
 - Email-jakecappa19@gmail.com
 
 <!---
