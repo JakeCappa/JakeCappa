@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeCappa
-- 👀 I'm interested in becoming a front-end web developer, then becoming a full-stack developer. After that, I'd like to become a blockchain developer.
-- 🌱 I’m currently learning HTML/CSS and Javascript. I'd like to learn Python, Java, Php, and Solidity.
+- 👀 I'm interested in becoming a full stack web developer then eventually a blockchain developer.
+- 🌱 I’m currently learning HTML/CSS, javascript, and python. I'll get to solidity soon.
 - 💞️ I’m looking to collaborate on any front-end projects.
 - 📫 How to reach me
 - Discord-JakeCappa#6401
